@@ -1,0 +1,90 @@
+/*# sourceMappingURL=index.css.map */
+
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.footer-header{
+    font-size: 0.7rem;
+}
+
+.footer-header button{
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.accordion{
+    color: grey;
+    font-weight: bold;
+}
+.footer-bottom {
+    color: #fff;
+    background-color: #14171a;
+}
+.accordion-item {
+    background-color: #14171a;
+    border: none;
+}
+.accordion-header {
+    background-color: #14171a;
+}
+.accordion-button {
+    background-color: #14171a;
+    color: grey;
+    border: none;
+    font-weight: bold;
+}
+.accordion-button:not(.collapsed) {
+    background-color: #14171a;
+    color: grey;
+}
+.accordion-body {
+    background-color: #14171a;
+    color: #fff;
+}
+.accordion-button:focus {
+    box-shadow: none;
+}
+.footer-bottom a {
+    color: grey;
+    text-decoration: none;
+
+}
+.footer-bottom a:hover {
+    color: #ccc;
+}
+
+.accordion-body ul{
+    list-style-type: none;
+}
+
+.footer-bottom-details p{
+    color: grey;
+}
+
+footer .col-md-2 ul li a{
+    font-size: 0.9rem;
+    color: grey !important;
+}
+
+footer .col-md-2 ul li{
+    padding-bottom: 5%;
+    
+}
+
+footer .col-md-2{
+    color: grey;
+}
+
+
+.row-2{
+    font-size: 0.9rem;
+}
+
+.row-2 a{
+    color: grey;
+}
